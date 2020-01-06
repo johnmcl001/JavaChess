@@ -1,0 +1,1 @@
+A simple java application to allow for 2 player local game of chess
